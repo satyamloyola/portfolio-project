@@ -3,4 +3,4 @@ Pillow==7.1.2
 psycopg2==2.8.5
 psycopg2-binary==2.8.5
 pytz==2020.1
-uwsgi
+uwsgi==2.0.18
